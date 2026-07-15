@@ -1,18 +1,15 @@
 ---
-name: 🐛 Bug report
-about: Something isn't working right
+name: Bug report
+about: Something is broken or looks wrong
 labels: bug
 ---
 
-**What happened?**
-A clear description of the bug.
+What happened:
 
-**Where?**
-Which page/feature (e.g. hiragana practice, a video lesson, the book reader).
+Page or feature (for example: hiragana practice, a video lesson, the book reader):
 
-**Device & browser**
-e.g. iPhone 14 / Safari, Windows / Chrome.
+Device and browser (for example: iPhone Safari, Windows Chrome):
 
-**What did you expect to happen?**
+What you expected to happen:
 
-**Screenshot (if it helps)**
+Screenshot, if it helps:
