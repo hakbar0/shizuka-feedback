@@ -1,14 +1,11 @@
 ---
-name: 💡 Feature request
+name: Feature request
 about: An idea to make Shizuka better
 labels: enhancement
 ---
 
-**What would you like?**
-The idea, in a sentence or two.
+What would you like:
 
-**Why would it help learners?**
-What problem does it solve, especially for beginners?
+Why it helps learners (what problem it solves, especially for beginners):
 
-**Anything else**
-Examples, sketches, or apps that do it well.
+Anything else (examples, sketches, apps that do it well):
